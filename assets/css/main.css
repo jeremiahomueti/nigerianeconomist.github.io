@@ -2,11 +2,6 @@
 @import url(font-awesome.min.css);
 @import "https://fonts.googleapis.com/css?family=Raleway:100,300,600";
 
-/*
-	Theory by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
 
 /* Reset */
 
@@ -1642,7 +1637,7 @@
 		}
 
 	strong, b {
-		color: #555;
+		color: rgb(5, 5, 5);
 		font-weight: 600;
 	}
 
@@ -3067,6 +3062,6 @@
 	}
 
 	img {
-		max-width: 5%;
+		max-width: fit-content;
 		
 	}
